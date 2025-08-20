@@ -1,7 +1,8 @@
 /*
     This source code is protected by copyright.
-    © nohashduck <doebutsu@duck.com>
+    © nohashduck <dobutsuduck@gmail.com>
 */
 
 #pragma once
-#include "game.hpp"
+#include "window.hpp"
+#include "image.hpp"
